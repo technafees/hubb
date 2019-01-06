@@ -1,5 +1,6 @@
 {
-    "name": "technafees/hubb",    
+    "name": "technafees/hubb",
+    "version": "1.0.0",
     "description": "public project A requiring private project B",
     "repositories" : [
     {
