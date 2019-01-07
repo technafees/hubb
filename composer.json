@@ -8,6 +8,6 @@
             "homepage": "http://www.nafees.co.in"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
 
 }
