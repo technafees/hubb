@@ -7,7 +7,5 @@
             "email": "tech@nafees.co.in",
             "homepage": "http://www.nafees.co.in"
         }
-    ],
-    "minimum-stability": "dev",
-
+    ]
 }
