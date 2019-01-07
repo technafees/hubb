@@ -1,7 +1,6 @@
 {
     "name": "technafees/hubb",
     "description": "Loads test",
-    "license" : "BSD-3-Clause",
     "authors" : [
         {
             "name": "Nafees Ahmed",
@@ -9,13 +8,6 @@
             "homepage": "http://www.nafees.co.in"
         }
     ],
-    "require": {
-        "php": "^5.4 || ^7.0",
-        "phpoption/phpoption": "^1.5"
-    },
-    "require-dev": {
-        "phpunit/phpunit": "^4.8.35 || ^5.0 || ^6.0"
-    },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
 
 }
